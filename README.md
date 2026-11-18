@@ -1,127 +1,110 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16002B,50:6A0DAD,100:BC6FF1&height=220&section=header&text=ALFREDO%20LOBO&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=BC6FF1&strokeWidth=2&desc=TECHNOLOGY%20%7C%20LEADERSHIP%20%7C%20MUSIC&descSize=15&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16002B,30:B30000,70:006633,100:FFD700&height=220&section=header&text=ALFREDO%20LOBO&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=FFD700&strokeWidth=2&desc=TECNOLOG%C3%8DA%20%7C%20LIDERAZGO%20%7C%20M%C3%9ASICA%20T%C3%8DPICA&descSize=15&descAlignY=70" width="100%"/>
 
 </div>
 
 <div align="center">
 
-`[ SYSTEM ONLINE ]` &nbsp; ` [ PROFILE: ALFREDO LOBO ]` &nbsp; `[ LEVEL: LEARNING ]`
+`[ SISTEMA EN LÍNEA ]` &nbsp; `[ ORGULLOSAMENTE PANAMEÑO ]` &nbsp; `[ NIVEL: APRENDIZAJE CONTINUO ]`
 
 </div>
 
 ---
 
-## ABOUT ME
+## SOBRE MÍ / ABOUT ME
 
-Hello! I'm **Alfredo Lobo**, a young technology enthusiast passionate about innovation, leadership, communication, and music.
+¡Qué xopa! Soy **Alfredo Lobo**, un joven entusiasta de la tecnología, apasionado por la innovación, el liderazgo, la comunicación y el folclor de nuestra tierra. 
 
-I enjoy learning new technologies, developing creative ideas, and participating in projects that create a positive impact. I am always looking for opportunities to grow personally and professionally.
+Me gusta combinar la programación con la cultura, desarrollar ideas creativas y participar en proyectos que dejen huella en Panamá. Siempre estoy buscando oportunidades para crecer personal y profesionalmente, manteniendo nuestras raíces bien presentes.
 
 ---
 
-## TECHNICAL SKILLS
+## HABILIDADES TÉCNICAS / TECHNICAL SKILLS
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-24103F?style=for-the-badge&labelColor=6A0DAD)
-![HTML](https://img.shields.io/badge/HTML5-24103F?style=for-the-badge&labelColor=7B2CBF)
-![CSS](https://img.shields.io/badge/CSS3-24103F?style=for-the-badge&labelColor=8A2BE2)
-![Microsoft Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-24103F?style=for-the-badge&labelColor=9932CC)
-![Canva](https://img.shields.io/badge/CANVA-24103F?style=for-the-badge&labelColor=9D4EDD)
+![Python](https://img.shields.io/badge/PYTHON-24103F?style=for-the-badge&labelColor=B30000)
+![HTML](https://img.shields.io/badge/HTML5-24103F?style=for-the-badge&labelColor=006633)
+![CSS](https://img.shields.io/badge/CSS3-24103F?style=for-the-badge&labelColor=FFD700&color=000)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-24103F?style=for-the-badge&labelColor=B30000)
+![Canva](https://img.shields.io/badge/CANVA-24103F?style=for-the-badge&labelColor=006633)
 
 </div>
 
-## PROFESSIONAL SKILLS
+## HABILIDADES PROFESIONALES / PROFESSIONAL SKILLS
 
-| SKILL | DESCRIPTION |
+| HABILIDAD | DESCRIPCIÓN |
 |:---|:---|
-| PUBLIC SPEAKING | Communication and presentations |
-| LEADERSHIP | Team coordination and direction |
-| CRITICAL THINKING | Analysis and decision-making |
-| COMMUNICATION | Effective interpersonal skills |
-| TEAMWORK | Collaboration and cooperation |
-| CREATIVITY | Innovation and idea development |
-| DEBATE & ARGUMENTATION | Reasoning and persuasive communication |
-| PROBLEM SOLVING | Analytical thinking and solutions |
+| ORATORIA Y VOZ | Comunicación y presentaciones públicas |
+| LIDERAZGO | Coordinación y dirección de equipos |
+| PENSAMIENTO CRÍTICO | Análisis y toma de decisiones estratégicas |
+| COMUNICACIÓN | Habilidades interpersonales efectivas |
+| TRABAJO EN EQUIPO | Colaboración y cooperación activa |
+| CREATIVIDAD | Innovación y desarrollo de ideas |
+| DEBATE Y ARGUMENTACIÓN | Razonamiento y comunicación persuasiva |
+| RESOLUCIÓN DE PROBLEMAS | Pensamiento analítico y soluciones prácticas |
 
 ---
 
-## EXPERIENCE & PROJECTS
+## EXPERIENCIA Y PROYECTOS / EXPERIENCE & PROJECTS
 
 ### PANAROOTS
-**TOURISM AND CULTURAL PROMOTION PROJECT**
+**PROYECTO DE TURISMO Y PROMOCIÓN CULTURAL**
 
-`JANUARY 2026 — SEPTEMBER 2026`
+`ENERO 2026 — SEPTIEMBRE 2026`
 
-A project focused on connecting Panama with tourists through local businesses, promoting gastronomy, culture, traditions, and tourism experiences.
+Un proyecto enfocado en conectar Panamá con los turistas a través de los negocios locales, promoviendo nuestra gastronomía, cultura, tradiciones y experiencias turísticas auténticas.
 
 ### BIN-X
-**TECHNOLOGICAL INNOVATION PROJECT**
+**PROYECTO DE INNOVACIÓN TECNOLÓGICA**
 
-`JANUARY 2025 — AUGUST 2025`
+`ENERO 2025 — AGOSTO 2025`
 
-Development of concepts for smart recycling containers designed to improve waste classification and environmental awareness.
+Desarrollo de conceptos para contenedores de reciclaje inteligentes diseñados para mejorar la clasificación de residuos y fomentar la conciencia ambiental en nuestra comunidad.
 
 ### ECOWAVE
-**CIRCULAR ECONOMY PROJECT**
+**PROYECTO DE ECONOMÍA CIRCULAR**
 
-`MAY 2024 — OCTOBER 2024`
+`MAYO 2024 — OCTUBRE 2024`
 
-A sustainability project focused on recycling, environmental awareness, and circular economy solutions through creative ideas and digital applications.
+Un proyecto de sostenibilidad enfocado en el reciclaje, la conciencia ecológica y soluciones de economía circular mediante ideas creativas y aplicaciones digitales.
 
 ### LA CORTE DEL TAMBOR
-**FOUNDER & DIRECTOR**
+**FUNDADOR Y DIRECTOR**
 
-Founder and director of a musical group dedicated to promoting Panamanian traditional music, culture, and artistic expression.
+Fundador y director de una agrupación musical dedicada a promover la música tradicional panameña, nuestra cultura y la expresión artística de nuestras raíces.
 
 ---
 
-## EDUCATION
+## EDUCACIÓN / EDUCATION
 
-### PEDRO PABLO SÁNCHEZ SECONDARY SCHOOL
-
-**BACHELOR OF SCIENCE**
+### INSTITUTO PEDRO PABLO SÁNCHEZ (PPS)
+**BACHILLER EN CIENCIAS**
 
 `2024 — 2026`
 
-### ¡SUPÉRATE! PROGRAM — FUNDACIÓN ALBERTO MOTTA
-
+### PROGRAMA ¡SUPÉRATE! — FUNDACIÓN ALBERTO MOTTA
 **CENTRO ¡SUPÉRATE! LA CHORRERA**
 
 `2024 — 2026`
 
-- Information Technology
-- English
-- Values
+- Tecnología de la Información
+- Inglés Avanzado
+- Valores y Liderazgo
 
 ---
 
-## CERTIFICATIONS
+## CERTIFICACIONES / CERTIFICATIONS
 
 <div align="center">
 
-![Excel Expert](https://img.shields.io/badge/EXCEL_EXPERT-24103F?style=for-the-badge&labelColor=6A0DAD)
-![Excel Specialist](https://img.shields.io/badge/EXCEL_SPECIALIST-24103F?style=for-the-badge&labelColor=7B2CBF)
+![Excel Expert](https://img.shields.io/badge/EXCEL_EXPERT-24103F?style=for-the-badge&labelColor=B30000)
+![Excel Specialist](https://img.shields.io/badge/EXCEL_SPECIALIST-24103F?style=for-the-badge&labelColor=006633)
 
-![Python Certification](https://img.shields.io/badge/PYTHON_CERTIFICATION-24103F?style=for-the-badge&labelColor=8A2BE2)
-![TOEIC](https://img.shields.io/badge/TOEIC-24103F?style=for-the-badge&labelColor=9932CC)
-
-</div>
-
-## ADDITIONAL ACHIEVEMENTS
-
-- Public Speaking Course.
-- Participation in debate and public speaking activities.
-- Student President Candidate.
-- Volunteer participation with TECHO Foundation Panama.
-- Participation in environmental and sustainability projects.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC6FF1,50:6A0DAD,100:16002B&height=120&section=footer" width="100%"/>
+![Python Certification](https://img.shields.io/badge/PYTHON_CERTIFICATION-24103F?style=for-the-badge&labelColor=FFD700&color=000)
+![TOEIC](https://img.shields.io/badge/TOEIC-24103F?style=for-the-badge&labelColor=B30000)
 
 </div>
+
+## LOGROS ADICIONAL
