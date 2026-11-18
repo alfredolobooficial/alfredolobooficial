@@ -1,9 +1,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=ALFREDO%20LOBO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=TECHNOLOGY%20%7C%20LEADERSHIP%20%7C%20MUSIC&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16002B,50:6A0DAD,100:BC6FF1&height=220&section=header&text=ALFREDO%20LOBO&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=BC6FF1&strokeWidth=2&desc=TECHNOLOGY%20%7C%20LEADERSHIP%20%7C%20MUSIC&descSize=15&descAlignY=70" width="100%"/>
 
 </div>
+
+<div align="center">
+
+`[ SYSTEM ONLINE ]` &nbsp; ` [ PROFILE: ALFREDO LOBO ]` &nbsp; `[ LEVEL: LEARNING ]`
+
+</div>
+
+---
 
 ## ABOUT ME
 
@@ -17,52 +25,54 @@ I enjoy learning new technologies, developing creative ideas, and participating 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-9932CC?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-7B2CBF?style=for-the-badge)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-6A0DAD?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-9D4EDD?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-24103F?style=for-the-badge&labelColor=6A0DAD)
+![HTML](https://img.shields.io/badge/HTML5-24103F?style=for-the-badge&labelColor=7B2CBF)
+![CSS](https://img.shields.io/badge/CSS3-24103F?style=for-the-badge&labelColor=8A2BE2)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-24103F?style=for-the-badge&labelColor=9932CC)
+![Canva](https://img.shields.io/badge/CANVA-24103F?style=for-the-badge&labelColor=9D4EDD)
 
 </div>
 
 ## PROFESSIONAL SKILLS
 
-- Public Speaking
-- Leadership
-- Critical Thinking
-- Communication
-- Teamwork
-- Creativity
-- Debate and Argumentation
-- Problem Solving
+| SKILL | DESCRIPTION |
+|:---|:---|
+| PUBLIC SPEAKING | Communication and presentations |
+| LEADERSHIP | Team coordination and direction |
+| CRITICAL THINKING | Analysis and decision-making |
+| COMMUNICATION | Effective interpersonal skills |
+| TEAMWORK | Collaboration and cooperation |
+| CREATIVITY | Innovation and idea development |
+| DEBATE & ARGUMENTATION | Reasoning and persuasive communication |
+| PROBLEM SOLVING | Analytical thinking and solutions |
 
 ---
 
 ## EXPERIENCE & PROJECTS
 
 ### PANAROOTS
-**Tourism and Cultural Promotion Project**
+**TOURISM AND CULTURAL PROMOTION PROJECT**
 
-*January 2026 – September 2026*
+`JANUARY 2026 — SEPTEMBER 2026`
 
 A project focused on connecting Panama with tourists through local businesses, promoting gastronomy, culture, traditions, and tourism experiences.
 
 ### BIN-X
-**Technological Innovation Project**
+**TECHNOLOGICAL INNOVATION PROJECT**
 
-*January 2025 – August 2025*
+`JANUARY 2025 — AUGUST 2025`
 
 Development of concepts for smart recycling containers designed to improve waste classification and environmental awareness.
 
 ### ECOWAVE
-**Circular Economy Project**
+**CIRCULAR ECONOMY PROJECT**
 
-*May 2024 – October 2024*
+`MAY 2024 — OCTOBER 2024`
 
 A sustainability project focused on recycling, environmental awareness, and circular economy solutions through creative ideas and digital applications.
 
 ### LA CORTE DEL TAMBOR
-**Founder & Director**
+**FOUNDER & DIRECTOR**
 
 Founder and director of a musical group dedicated to promoting Panamanian traditional music, culture, and artistic expression.
 
@@ -71,16 +81,17 @@ Founder and director of a musical group dedicated to promoting Panamanian tradit
 ## EDUCATION
 
 ### PEDRO PABLO SÁNCHEZ SECONDARY SCHOOL
-**Bachelor of Science**
 
-*2024 – 2026*
+**BACHELOR OF SCIENCE**
 
-### ¡SUPÉRATE! PROGRAM – FUNDACIÓN ALBERTO MOTTA
-**Centro ¡Supérate! La Chorrera**
+`2024 — 2026`
 
-*2024 – 2026*
+### ¡SUPÉRATE! PROGRAM — FUNDACIÓN ALBERTO MOTTA
 
-Areas of training:
+**CENTRO ¡SUPÉRATE! LA CHORRERA**
+
+`2024 — 2026`
+
 - Information Technology
 - English
 - Values
@@ -91,10 +102,11 @@ Areas of training:
 
 <div align="center">
 
-![Excel Expert](https://img.shields.io/badge/EXCEL_EXPERT-8A2BE2?style=for-the-badge)
-![Excel Specialist](https://img.shields.io/badge/EXCEL_SPECIALIST-9932CC?style=for-the-badge)
-![Python Certification](https://img.shields.io/badge/PYTHON_CERTIFICATION-7B2CBF?style=for-the-badge)
-![TOEIC](https://img.shields.io/badge/TOEIC-6A0DAD?style=for-the-badge)
+![Excel Expert](https://img.shields.io/badge/EXCEL_EXPERT-24103F?style=for-the-badge&labelColor=6A0DAD)
+![Excel Specialist](https://img.shields.io/badge/EXCEL_SPECIALIST-24103F?style=for-the-badge&labelColor=7B2CBF)
+
+![Python Certification](https://img.shields.io/badge/PYTHON_CERTIFICATION-24103F?style=for-the-badge&labelColor=8A2BE2)
+![TOEIC](https://img.shields.io/badge/TOEIC-24103F?style=for-the-badge&labelColor=9932CC)
 
 </div>
 
@@ -110,8 +122,6 @@ Areas of training:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
-
-**© 2026 / Alfredo Lobo**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC6FF1,50:6A0DAD,100:16002B&height=120&section=footer" width="100%"/>
 
 </div>
