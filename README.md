@@ -1,196 +1,117 @@
 
-<!--
-  ALFREDO LOBO | CYBER SILVER PROFILE
-  GitHub Profile README
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111111,50:777777,100:C0C0C0&text=ALFREDO%20LOBO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Technology%20%7C%20Leadership%20%7C%20Music&descAlignY=58&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Technology+%7C+Innovation+%7C+Creativity;Learning+today%2C+building+tomorrow" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8C8C8C?style=for-the-badge&logo=googlechrome&logoColor=white)](TU-URL-DE-PORTAFOLIO)
-[![Email](https://img.shields.io/badge/Email-Contact-C0C0C0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:TU-CORREO)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=ALFREDO%20LOBO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=TECHNOLOGY%20%7C%20LEADERSHIP%20%7C%20MUSIC&descAlignY=60&descSize=16" width="100%"/>
 
 </div>
 
----
+## 👾 About Me
 
-## ◈ ABOUT ME
+Hello! I'm **Alfredo Lobo**, a young technology enthusiast passionate about innovation, leadership, communication, and music.
 
-<img align="right" width="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=graywhite&hide_border=true&title_color=777777&icon_color=555555" />
-
-Hello! I'm **Alfredo Antonio Lobo**, a motivated and creative individual from **La Chorrera, Panama**.
-
-I am passionate about technology, innovation, leadership, communication, and music. I enjoy learning new skills, developing ideas, and participating in projects that create positive changes.
-
-I believe in continuous learning, discipline, and turning ideas into real opportunities.
-
-- 📍 Location: La Chorrera, Panama Oeste, Panama.
-- 💻 Interests: Technology, programming, and innovation.
-- 🎓 Education: Secondary education and ¡Supérate! Business Program.
-- 🎵 Passion: Panamanian traditional music and percussion.
-- 🚀 Goal: Keep growing professionally and creating meaningful projects.
-
-<br clear="right"/>
+I enjoy learning new technologies, developing creative ideas, and participating in projects that create a positive impact. I am always looking for opportunities to grow personally and professionally.
 
 ---
 
-## ◈ TECHNICAL SKILLS
+## ⚡ Technical Skills
 
 <div align="center">
 
-### TECHNOLOGY & PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode&theme=dark" />
-
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-Programming-777777?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-Web_Development-777777?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Web_Design-777777?style=for-the-badge&logo=css3&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced-C0C0C0?style=for-the-badge&logo=microsoftexcel&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-Design-777777?style=for-the-badge&logo=canva&logoColor=white)
-
-### PROFESSIONAL SKILLS
-
-![Leadership](https://img.shields.io/badge/Leadership-C0C0C0?style=flat-square&logoColor=black)
-![Public Speaking](https://img.shields.io/badge/Public_Speaking-8C8C8C?style=flat-square)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-C0C0C0?style=flat-square)
-![Teamwork](https://img.shields.io/badge/Teamwork-8C8C8C?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-C0C0C0?style=flat-square)
-![Creativity](https://img.shields.io/badge/Creativity-8C8C8C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-9932CC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-7B2CBF?style=for-the-badge&logo=css3&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-6A0DAD?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-9D4EDD?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
+### 🧠 Professional Skills
+
+- Public Speaking
+- Leadership
+- Critical Thinking
+- Communication
+- Teamwork
+- Creativity
+- Debate and Argumentation
+- Problem Solving
+
 ---
 
-## ◈ EXPERIENCE & PROJECTS
+## 🚀 Experience & Projects
 
 ### PANAROOTS
-**Tourism and Cultural Promotion Project**  
-`January 2026 – September 2026`
+**Tourism and Cultural Promotion Project**
+*January 2026 – September 2026*
 
-- Connected Panama with tourists through local businesses.
-- Promoted Panamanian gastronomy, culture, traditions, and tourism experiences.
+A project focused on connecting Panama with tourists through local businesses, promoting gastronomy, culture, traditions, and tourism experiences.
 
 ### BIN-X
-**Technological Innovation Project**  
-`January 2025 – August 2025`
+**Technological Innovation Project**
+*January 2025 – August 2025*
 
-- Participated in the development of smart recycling bin concepts.
-- Explored technology-based solutions for efficient waste sorting.
+Development of concepts for smart recycling containers designed to improve waste classification and environmental awareness.
 
 ### ECOWAVE
-**Circular Economy Project**  
-`May 2024 – October 2024`
+**Circular Economy Project**
+*May 2024 – October 2024*
 
-- Worked on ideas involving recycling and sustainability.
-- Promoted environmental awareness and circular economy principles.
+A sustainability project focused on recycling, environmental awareness, and circular economy solutions through creative ideas and digital applications.
 
 ### LA CORTE DEL TAMBOR
-**Founder & Director | Musical Organization**
+**Founder & Director**
 
-- Founded and lead a musical group dedicated to Panamanian cultural traditions.
-- Coordinate activities, organization, and musical presentations.
-- Promote traditional Panamanian music and cultural identity.
+Founder and director of a musical group dedicated to promoting Panamanian traditional music, culture, and artistic expression.
 
 ---
 
-## ◈ EDUCATION
+## 🎓 Education
 
-### BACHELOR OF SCIENCE
-**Pedro Pablo Sánchez Secondary School**  
-`2024 – 2026`
+### Pedro Pablo Sánchez Secondary School
+**Bachelor of Science**
+*2024 – 2026*
 
-Completed secondary education, developing academic knowledge, leadership, communication, and teamwork skills.
+### ¡Supérate! Program – Fundación Alberto Motta
+**Centro ¡Supérate! La Chorrera**
+*2024 – 2026*
 
-### ¡SUPÉRATE! BUSINESS PROGRAM
-**Alberto Motta Foundation – ¡Supérate! Center La Chorrera**  
-`2024 – 2026`
-
-Specialized training in:
-
+Areas of training:
 - Information Technology
 - English
-- Values and professional development
+- Values
 
 ---
 
-## ◈ CERTIFICATIONS & ACHIEVEMENTS
+## 🏆 Certifications
 
 <div align="center">
 
-| CERTIFICATION | AREA |
-|:---|:---|
-| 🏆 Excel Expert | Microsoft Excel |
-| 🏆 Excel Specialty | Microsoft Excel |
-| 🐍 Python Certification | Programming |
-| ⚙️ Apache Certification | Technology |
-| 📊 Excel Certification | Spreadsheet Skills |
-| 🌐 TOEIC | English Language Proficiency |
+![Excel Expert](https://img.shields.io/badge/Excel_Expert-8A2BE2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Excel Specialist](https://img.shields.io/badge/Excel_Specialist-9932CC?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python_Certification-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
+
+![TOEIC](https://img.shields.io/badge/TOEIC-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 </div>
 
-**Additional achievements:**
+### 🌟 Additional Achievements
 
 - Public Speaking Course.
-- Participation in public speaking and debate activities.
-- Participation in critical thinking and argumentation activities.
-- Candidate for Student President.
-- Community volunteering with TECHO Foundation Panama.
-- Participation in recycling and circular economy initiatives.
+- Participation in debate and public speaking activities.
+- Student President Candidate.
+- Volunteer participation with TECHO Foundation Panama.
+- Participation in environmental and sustainability projects.
 
 ---
 
-## ◈ GITHUB ANALYTICS
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=FFFFFF&icon_color=8C8C8C&include_all_commits=true" />
+### ✨ ALWAYS RESUME ✨
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 
-<br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&ring=C0C0C0&fire=8C8C8C&currStreakLabel=C0C0C0" />
-
-</div>
-
----
-
-## ◈ CONTACT
-
-<div align="center">
-
-**Let's connect and create opportunities!**
-
-<a href="mailto:TU-CORREO">
-<img src="https://img.shields.io/badge/Email-Contact_Me-C0C0C0?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/in/TU-PERFIL/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8C8C8C?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/alfredolobo_oficial/">
-<img src="https://img.shields.io/badge/Instagram-Follow-777777?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/TU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,50:777777,100:C0C0C0" width="100%" />
-
-**© 2026 Alfredo Lobo | All Rights Reserved**
-
-*“Dream big. Keep learning. Build something meaningful.”*
+**© 2026 / Alfredo Lobo**
 
 </div>
