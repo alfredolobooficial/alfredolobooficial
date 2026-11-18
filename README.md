@@ -1,116 +1,196 @@
-<!-- =============================== -->
-<!-- ALFREDO LOBO | CYBERPUNK PROFILE -->
-<!-- =============================== -->
+
+<!--
+  ALFREDO LOBO | CYBER SILVER PROFILE
+  GitHub Profile README
+-->
 
 <div align="center">
 
-# ⚡ ALFREDO LOBO
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111111,50:777777,100:C0C0C0&text=ALFREDO%20LOBO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Technology%20%7C%20Leadership%20%7C%20Music&descAlignY=58&descSize=16" width="100%" />
 
-### `WEB DEVELOPER` · `PLAYER 01` · `LEVEL UP EVERY DAY`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Technology+%7C+Innovation+%7C+Creativity;Learning+today%2C+building+tomorrow" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6C00FF,100:00E5FF&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20the%20future%20one%20line%20at%20a%20time&descAlignY=58&descSize=14" width="100%" alt="Cyberpunk neon banner" />
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-alfredoloboj-181717?style=for-the-badge&logo=github)](https://github.com/alfredoloboj)
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge)](https://github.com/alfredoloboj)
-[![Focus](https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-8A2BE2?style=for-the-badge)](https://github.com/alfredoloboj)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8C8C8C?style=for-the-badge&logo=googlechrome&logoColor=white)](TU-URL-DE-PORTAFOLIO)
+[![Email](https://img.shields.io/badge/Email-Contact-C0C0C0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:TU-CORREO)
 
 </div>
 
 ---
 
-## 🧑‍💻 // ABOUT ME
+## ◈ ABOUT ME
 
-> `Initializing developer profile...`
+<img align="right" width="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=graywhite&hide_border=true&title_color=777777&icon_color=555555" />
 
-Hey! I'm **Alfredo Lobo**, a web developer passionate about technology, creativity, and building digital experiences.
+Hello! I'm **Alfredo Antonio Lobo**, a motivated and creative individual from **La Chorrera, Panama**.
 
-- 🎮 **Player:** Always ready to learn something new.
-- 💻 **Mission:** Build clean, responsive, and user-friendly websites.
-- ⚡ **Current stack:** HTML, CSS, and JavaScript.
-- 🚀 **Objective:** Improve my skills, create useful projects, and level up as a developer.
+I am passionate about technology, innovation, leadership, communication, and music. I enjoy learning new skills, developing ideas, and participating in projects that create positive changes.
 
-```bash
-> player.load("Alfredo Lobo")
-> role.set("Web Developer")
-> skills.train(["HTML", "CSS", "JavaScript"])
-> status: READY_TO_BUILD
-```
+I believe in continuous learning, discipline, and turning ideas into real opportunities.
+
+- 📍 Location: La Chorrera, Panama Oeste, Panama.
+- 💻 Interests: Technology, programming, and innovation.
+- 🎓 Education: Secondary education and ¡Supérate! Business Program.
+- 🎵 Passion: Panamanian traditional music and percussion.
+- 🚀 Goal: Keep growing professionally and creating meaningful projects.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ // TECH STACK
+## ◈ TECHNICAL SKILLS
 
 <div align="center">
 
-### `CURRENTLY EQUIPPED`
+### TECHNOLOGY & PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode&theme=dark" />
 
-<br/>
+<br><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Programming-777777?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-Web_Development-777777?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Web_Design-777777?style=for-the-badge&logo=css3&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced-C0C0C0?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-Design-777777?style=for-the-badge&logo=canva&logoColor=white)
+
+### PROFESSIONAL SKILLS
+
+![Leadership](https://img.shields.io/badge/Leadership-C0C0C0?style=flat-square&logoColor=black)
+![Public Speaking](https://img.shields.io/badge/Public_Speaking-8C8C8C?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-C0C0C0?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-8C8C8C?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-C0C0C0?style=flat-square)
+![Creativity](https://img.shields.io/badge/Creativity-8C8C8C?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 // PROJECTS — SELECT YOUR MISSION
+## ◈ EXPERIENCE & PROJECTS
 
-Here are the projects I'm building and the challenges I'm taking on.
+### PANAROOTS
+**Tourism and Cultural Promotion Project**  
+`January 2026 – September 2026`
 
-<!-- Replace the placeholders below with your real project links and descriptions. -->
+- Connected Panama with tourists through local businesses.
+- Promoted Panamanian gastronomy, culture, traditions, and tourism experiences.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟣 PROJECT_01</h3>
-      <b>[Your project name]</b>
-      <p>[Describe what your project does and what you learned building it.]</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/alfredoloboj">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔵 PROJECT_02</h3>
-      <b>[Your project name]</b>
-      <p>[Add a short description of another real project here.]</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/alfredoloboj">View repository →</a>
-    </td>
-  </tr>
-</table>
+### BIN-X
+**Technological Innovation Project**  
+`January 2025 – August 2025`
 
-> 💡 Replace the example names, descriptions, and links with your actual repositories. Remove any project card you don't need.
+- Participated in the development of smart recycling bin concepts.
+- Explored technology-based solutions for efficient waste sorting.
+
+### ECOWAVE
+**Circular Economy Project**  
+`May 2024 – October 2024`
+
+- Worked on ideas involving recycling and sustainability.
+- Promoted environmental awareness and circular economy principles.
+
+### LA CORTE DEL TAMBOR
+**Founder & Director | Musical Organization**
+
+- Founded and lead a musical group dedicated to Panamanian cultural traditions.
+- Coordinate activities, organization, and musical presentations.
+- Promote traditional Panamanian music and cultural identity.
 
 ---
 
-## 📊 // GITHUB STATS
+## ◈ EDUCATION
+
+### BACHELOR OF SCIENCE
+**Pedro Pablo Sánchez Secondary School**  
+`2024 – 2026`
+
+Completed secondary education, developing academic knowledge, leadership, communication, and teamwork skills.
+
+### ¡SUPÉRATE! BUSINESS PROGRAM
+**Alberto Motta Foundation – ¡Supérate! Center La Chorrera**  
+`2024 – 2026`
+
+Specialized training in:
+
+- Information Technology
+- English
+- Values and professional development
+
+---
+
+## ◈ CERTIFICATIONS & ACHIEVEMENTS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alfredoloboj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=9B7CFF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats for alfredoloboj" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoloboj&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Most used programming languages" />
-
-<img src="https://streak-stats.demolab.com?user=alfredoloboj&theme=midnight-purple&hide_border=true&background=0D1117&ring=00E5FF&fire=9B7CFF&currStreakLabel=00E5FF" alt="GitHub contribution streak" />
+| CERTIFICATION | AREA |
+|:---|:---|
+| 🏆 Excel Expert | Microsoft Excel |
+| 🏆 Excel Specialty | Microsoft Excel |
+| 🐍 Python Certification | Programming |
+| ⚙️ Apache Certification | Technology |
+| 📊 Excel Certification | Spreadsheet Skills |
+| 🌐 TOEIC | English Language Proficiency |
 
 </div>
 
-<sub>Note: These cards retrieve data from external services. They may take time to load or be temporarily unavailable.</sub>
+**Additional achievements:**
+
+- Public Speaking Course.
+- Participation in public speaking and debate activities.
+- Participation in critical thinking and argumentation activities.
+- Candidate for Student President.
+- Community volunteering with TECHO Foundation Panama.
+- Participation in recycling and circular economy initiatives.
 
 ---
 
+## ◈ GITHUB ANALYTICS
+
 <div align="center">
 
-### `END OF TRANSMISSION` ▰▰▰▰▰▱▱▱ 70%
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=FFFFFF&icon_color=8C8C8C&include_all_commits=true" />
 
-**Thanks for visiting my profile!**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=FFFFFF" />
 
-*Keep learning. Keep building. Keep leveling up.* 🎮
+<br>
 
-[![GitHub](https://img.shields.io/badge/ENTER_MY_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/alfredoloboj)
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&ring=C0C0C0&fire=8C8C8C&currStreakLabel=C0C0C0" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C00FF,100:0D0221&height=100&section=footer" width="100%" alt="Neon footer" />
+</div>
+
+---
+
+## ◈ CONTACT
+
+<div align="center">
+
+**Let's connect and create opportunities!**
+
+<a href="mailto:TU-CORREO">
+<img src="https://img.shields.io/badge/Email-Contact_Me-C0C0C0?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/TU-PERFIL/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8C8C8C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/alfredolobo_oficial/">
+<img src="https://img.shields.io/badge/Instagram-Follow-777777?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/TU-USUARIO">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,50:777777,100:C0C0C0" width="100%" />
+
+**© 2026 Alfredo Lobo | All Rights Reserved**
+
+*“Dream big. Keep learning. Build something meaningful.”*
 
 </div>
