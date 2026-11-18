@@ -7,9 +7,6 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝     ╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝ 
 </pre>
 
-<div align="center">
-
-**TECHNOLOGY | LEADERSHIP | MUSIC**
 
 </div>
 
@@ -60,7 +57,7 @@ I enjoy learning new technologies, developing creative ideas, and participating 
 **CIRCULAR ECONOMY PROJECT** | *MAY 2024 — OCTOBER 2024*
 - A sustainability project focused on recycling, environmental awareness, and circular economy solutions through creative ideas and digital applications.
 
-### LA CORTE DEL TAMBOR
+### THE COURT OF THE DRUM
 **FOUNDER & DIRECTOR**
 - Founder and director of a musical group dedicated to promoting Panamanian traditional music, culture, and artistic expression.
 
