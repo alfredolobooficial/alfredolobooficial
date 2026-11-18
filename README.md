@@ -5,7 +5,7 @@
 
 </div>
 
-## 👾 About Me
+## ABOUT ME
 
 Hello! I'm **Alfredo Lobo**, a young technology enthusiast passionate about innovation, leadership, communication, and music.
 
@@ -13,19 +13,19 @@ I enjoy learning new technologies, developing creative ideas, and participating 
 
 ---
 
-## ⚡ Technical Skills
+## TECHNICAL SKILLS
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-9932CC?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-7B2CBF?style=for-the-badge&logo=css3&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-6A0DAD?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-9D4EDD?style=for-the-badge&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-9932CC?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-7B2CBF?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-6A0DAD?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-9D4EDD?style=for-the-badge)
 
 </div>
 
-### 🧠 Professional Skills
+## PROFESSIONAL SKILLS
 
 - Public Speaking
 - Leadership
@@ -38,22 +38,25 @@ I enjoy learning new technologies, developing creative ideas, and participating 
 
 ---
 
-## 🚀 Experience & Projects
+## EXPERIENCE & PROJECTS
 
 ### PANAROOTS
 **Tourism and Cultural Promotion Project**
+
 *January 2026 – September 2026*
 
 A project focused on connecting Panama with tourists through local businesses, promoting gastronomy, culture, traditions, and tourism experiences.
 
 ### BIN-X
 **Technological Innovation Project**
+
 *January 2025 – August 2025*
 
 Development of concepts for smart recycling containers designed to improve waste classification and environmental awareness.
 
 ### ECOWAVE
 **Circular Economy Project**
+
 *May 2024 – October 2024*
 
 A sustainability project focused on recycling, environmental awareness, and circular economy solutions through creative ideas and digital applications.
@@ -65,14 +68,16 @@ Founder and director of a musical group dedicated to promoting Panamanian tradit
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
-### Pedro Pablo Sánchez Secondary School
+### PEDRO PABLO SÁNCHEZ SECONDARY SCHOOL
 **Bachelor of Science**
+
 *2024 – 2026*
 
-### ¡Supérate! Program – Fundación Alberto Motta
+### ¡SUPÉRATE! PROGRAM – FUNDACIÓN ALBERTO MOTTA
 **Centro ¡Supérate! La Chorrera**
+
 *2024 – 2026*
 
 Areas of training:
@@ -82,21 +87,18 @@ Areas of training:
 
 ---
 
-## 🏆 Certifications
+## CERTIFICATIONS
 
 <div align="center">
 
-![Excel Expert](https://img.shields.io/badge/Excel_Expert-8A2BE2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Excel Specialist](https://img.shields.io/badge/Excel_Specialist-9932CC?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python_Certification-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
-
-![TOEIC](https://img.shields.io/badge/TOEIC-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Excel Expert](https://img.shields.io/badge/EXCEL_EXPERT-8A2BE2?style=for-the-badge)
+![Excel Specialist](https://img.shields.io/badge/EXCEL_SPECIALIST-9932CC?style=for-the-badge)
+![Python Certification](https://img.shields.io/badge/PYTHON_CERTIFICATION-7B2CBF?style=for-the-badge)
+![TOEIC](https://img.shields.io/badge/TOEIC-6A0DAD?style=for-the-badge)
 
 </div>
 
-### 🌟 Additional Achievements
+## ADDITIONAL ACHIEVEMENTS
 
 - Public Speaking Course.
 - Participation in debate and public speaking activities.
@@ -107,8 +109,6 @@ Areas of training:
 ---
 
 <div align="center">
-
-### ✨ ALWAYS RESUME ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 
